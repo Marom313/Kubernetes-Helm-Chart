@@ -1,0 +1,1 @@
+This is my first Helm chart and it will deploy nginx application 
